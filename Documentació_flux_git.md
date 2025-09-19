@@ -1,5 +1,7 @@
 # Flux d'un repositori Git
 
+[TOC]
+
 ## Creació del repositori
 
 Obrim el nostre terminal preferit i creem el directori arrel del repository
@@ -88,4 +90,4 @@ A partir d'ara, cada volta que fem commits, haurem d'executar
 $ git push -u origin main
 ```
 
-Aixi garantim la sincronització entre la nostra còpia local del repositori i la de GitHub
+Aixi garantim la sincronització entre la nostra còpia local del repositori i la de GitHub.
