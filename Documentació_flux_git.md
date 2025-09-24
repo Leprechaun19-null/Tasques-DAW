@@ -48,6 +48,8 @@ $ git commit -m "Primer commit, creada documentació"
 ## Importació del repositori a Github
 Per importar el repositori a GitHub, seguirem aquests passos
 1.Al nostre perfil de GitHub creem un nou repositori
+<img width="1888" height="861" alt="{4D2398B5-8D95-4763-8B60-297082B6F97A}" src="https://github.com/user-attachments/assets/f13f0c5d-6b66-4843-b1d3-044dd5fcd926" />
+
 
 Després, al quick setup, executem aquests comandaments:
 ```bash
